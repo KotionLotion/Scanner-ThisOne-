@@ -23,4 +23,4 @@ A TCP port scanner with multiple features, written in Go.
 
 ## Video Link:
 
- - Video explaining code: 
+ - Video explaining code: https://youtu.be/EqZikZk60xo
